@@ -9,3 +9,8 @@ My task is to set up and demonstrate Wireshark’s packet capture capabilities.<
 <Br> Objective:
 
 Install and setup wireshark for users belonging to the wireshark group</br>
+
+
+
+<br>I added Sudo usermod- aG wireshark $USER. Wireshark was not ran as a superuser for security reasons.</br>
+
