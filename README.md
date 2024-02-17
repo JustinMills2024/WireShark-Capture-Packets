@@ -21,9 +21,15 @@ Install and setup wireshark for users belonging to the wireshark group</br>
 
 <br> Objective: Start a packet capture on an ethernet port and save it to a file.
 
+
 I first clicked on Ens5 the ethernet port file. I then stopped the capturing packets and clicked the red square. 
 
 A capture can only be saved once the capture is stopped. Once that was done I clicked on Save this capture file. </br>
+
+<img src="https://github.com/JustinMills2024/WireShark-Capture-Packets/assets/159082478/d5824908-58bf-4eff-b557-d78dcb3a5cd6" alt="1708116420712">
+<br>  Then saved the file as task 2.</br>
+
+
 
 
 
