@@ -52,6 +52,18 @@ After that was done I  went to the display filter and typed tcp.port==443. Then 
 <br> Then put 52.149.246.39 into firefox </br> 
 
 
+<img src="https://github.com/JustinMills2024/WireShark-Capture-Packets/assets/159082478/850420c1-3cd4-4c56-a538-3e4fe75f7445" alt="1708121319131">
+<br> And it ended up going back to Duckduckgo.com </br>
+
+
+<h2>Other task I completed in this project are:</h2>
+
+<br>Visited a page and detect its IP address using a display filter
+Located all HTTPS from a capture not containing a certain IP address</br>
+
+
+
+
 
 
 
