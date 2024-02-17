@@ -61,7 +61,8 @@ After that was done I  went to the display filter and typed tcp.port==443. Then 
 <br>Visited a page and detect its IP address using a display filter
 Located all HTTPS from a capture not containing a certain IP address</br>
 
-<br> </br>
+<br><img src="https://github.com/JustinMills2024/WireShark-Capture-Packets/assets/159082478/9ce113b3-bcc3-4209-9a20-cdbf358c8481" alt="1708128979484">
+ </br>
 
 
 
