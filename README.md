@@ -27,8 +27,10 @@ I first clicked on Ens5 the ethernet port file. I then stopped the capturing pac
 A capture can only be saved once the capture is stopped. Once that was done I clicked on Save this capture file. </br>
 
 <img src="https://github.com/JustinMills2024/WireShark-Capture-Packets/assets/159082478/d5824908-58bf-4eff-b557-d78dcb3a5cd6" alt="1708116420712">
+
 <br>  Then saved the file as task 2.</br>
 
+<img src="https://github.com/JustinMills2024/WireShark-Capture-Packets/assets/159082478/7337cc4e-1722-4cf9-8a3c-ab6d970b98f5" alt="1708116623396">
 
 
 
