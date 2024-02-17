@@ -33,6 +33,16 @@ A capture can only be saved once the capture is stopped. Once that was done I cl
 <img src="https://github.com/JustinMills2024/WireShark-Capture-Packets/assets/159082478/7337cc4e-1722-4cf9-8a3c-ab6d970b98f5" alt="1708116623396">
 
 
+<h2>Task 3 </h2>
 
+<br> Objective: Use a display filter to detect HTTPS packets
+
+I first went to Duckduckgo then went to Wireshark. Clicked stop the capturing packets. Then I saved this capture file. I saved it as task 3. 
+
+After that was done I  went to the display filter and typed tcp.port==443. Then clicked apply display filter. This displayed only HTTPS traffic by using a filter on TCP port 443.tcp.port==443 </br>
+
+
+
+<br> I then scrolled down to Client Hello </br>
 
 
