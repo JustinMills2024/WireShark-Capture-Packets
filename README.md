@@ -41,8 +41,11 @@ I first went to Duckduckgo then went to Wireshark. Clicked stop the capturing pa
 
 After that was done I  went to the display filter and typed tcp.port==443. Then clicked apply display filter. This displayed only HTTPS traffic by using a filter on TCP port 443.tcp.port==443 </br>
 
+<img src="https://github.com/JustinMills2024/WireShark-Capture-Packets/assets/159082478/b3a62f9a-5131-41d4-ad42-0ab2a88a67aa" alt="1708119346521">
 
 
 <br> I then scrolled down to Client Hello </br>
+
+
 
 
