@@ -56,10 +56,12 @@ After that was done I  went to the display filter and typed tcp.port==443. Then 
 <br> And it ended up going back to Duckduckgo.com </br>
 
 
-<h2>Other task I completed in this project are:</h2>
+<h2>Other tasks I completed in this project are:</h2>
 
 <br>Visited a page and detect its IP address using a display filter
 Located all HTTPS from a capture not containing a certain IP address</br>
+
+<br> </br>
 
 
 
