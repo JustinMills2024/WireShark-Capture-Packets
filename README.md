@@ -47,6 +47,11 @@ After that was done I  went to the display filter and typed tcp.port==443. Then 
 
 <br> I then scrolled down to Client Hello </br>
 
+<img src="https://github.com/JustinMills2024/WireShark-Capture-Packets/assets/159082478/51e3e3ba-bd95-4f9a-9078-f580e38e1f73" alt="1708121200635">
+
+<br> Then put 52.149.246.39 into firefox </br> 
+
+
 
 
 
